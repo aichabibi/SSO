@@ -1,0 +1,4 @@
+Flask-WTF==0.15.1
+Flask-Bcrypt==0.7.1
+boto3
+flask
